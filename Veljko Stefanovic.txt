@@ -1,0 +1,10 @@
+Projekat - Veljko Stafanovic 613/2019
+
+Koristi se port B, zato sto u imenu i prezimenu ima vise suglasnika nego samoglasnika (9>6)
+Koristi se pin broj 3, zato sto je ostatak pri deljenju ukupnog broja slova sa 6 = 3
+
+Prvo izvrsavanje se ponavlja 5 puta (br. slova u imenu)
+Drugo izvrsavanje ponavlja se 10 puta (br. slova u prezimenu)
+
+U prvom izvrsavanju sirina impulsa je = 5, a sirina pauze = 10
+U drugom izvrsavanju sirina impulsa je = 10, a sirina pauze je = 5 
